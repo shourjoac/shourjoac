@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shourjo Aditya Chaudhuri</h1>  
-<h3 align="center">ML & Full-Stack Development</h3>  
+<h3 align="center">ML Researcher</h3>  
   
 - 🔭 I’m currently working on [PremFun - A machine learning algorithm which predicts the winner of an English Premier League football match.](https://github.com/shourjoac/PremFun)  
   
