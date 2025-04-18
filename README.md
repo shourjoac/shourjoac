@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Shourjo Aditya Chaudhuri</h1>  
-<h3 align="center">ML Researcher</h3>  
+<h3 align="center">Machine Learning</h3>  
   
-- 🔭 I’m currently working on [PremFun - A machine learning algorithm which predicts the winner of an English Premier League football match.](https://github.com/shourjoac/PremFun)  
+- 🔭 I’m currently working on multiple research projects. Further, I am making a chatbot which helps advise college students.   
   
-- 💼 I’m looking for **internship opportunites during Fall 24/ Spring 25/ Summer 25**.  
+- 💼 I’m looking for **internship opportunites during Summer 25**.  
   
  - 👨‍💻 All of my projects are available on [github](https://github.com/shourjoac?tab=repositories)
 
@@ -12,7 +12,8 @@
   
 - 💬 Ask me about **Alignment in LLMs, Multimodality, Fine-tuning and evaluating LLMs **  
   
-- 📫 How to reach me **sachaudhuri@wisc.edu**  
+- 📫 How to reach me **sachaudhuri@wisc.edu**
+  
 - 🌱 I’m currently learning about **Mixture of Experts**
   
 - ⚡ Fun fact **I am insanely good at Fifa**  
